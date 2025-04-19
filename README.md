@@ -24,7 +24,7 @@ cd nama-repo
 - JavaScript
 
 ## Kontributor
-- [Namamu](https://github.com/username)
+- [Raihan Alif](https://github.com/Raihan285)
 ```
 
 ### Tips Membuat README Menarik
@@ -84,7 +84,7 @@ Sistem Perpustakaan Digital SMA adalah aplikasi web untuk mengelola peminjaman b
 ## 🛠️ Instalasi
 ```bash
 # Clone repository
-git clone https://github.com/username/perpustakaan-digital.git
+git clone https://github.com/Raihan285/Latihan-Nodejs
 
 # Masuk ke direktori
 cd perpustakaan-digital
